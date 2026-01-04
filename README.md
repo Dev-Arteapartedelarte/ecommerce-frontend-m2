@@ -1,6 +1,6 @@
 ## ecommerce-frontend-m2
 
-URL del Proyecto: https://github.com/Dev-Arteapartedelarte/ecommerce-frontend-m2
+URL del Proyecto: https://github.com/Dev-Arteapartedelarte/ecommerce-frontend-m2.git
 
 
 #  Arteapartedelarte SpA - E-commerce de Soluciones de Software
